@@ -1,0 +1,9 @@
+G:/VSCode/Macrothing/build/CMakeFiles/Experimental.dir
+G:/VSCode/Macrothing/build/CMakeFiles/Nightly.dir
+G:/VSCode/Macrothing/build/CMakeFiles/Continuous.dir
+G:/VSCode/Macrothing/build/CMakeFiles/NightlyMemoryCheck.dir
+G:/VSCode/Macrothing/build/CMakeFiles/MacroCreator.dir
+G:/VSCode/Macrothing/build/CMakeFiles/PACKAGE.dir
+G:/VSCode/Macrothing/build/CMakeFiles/RUN_TESTS.dir
+G:/VSCode/Macrothing/build/CMakeFiles/ALL_BUILD.dir
+G:/VSCode/Macrothing/build/CMakeFiles/ZERO_CHECK.dir
